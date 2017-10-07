@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 testBrand hahaha
+=======
+testBrand
+>>>>>>> b19f2aed2a2c23bd4bd79dc33d1e61fa87ef243d
